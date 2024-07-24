@@ -12,4 +12,14 @@ header, footer {
 
 main {
     padding: 20px;
+
+body {
+    background-image: url('https://www.freepik.com/free-vector/creative-geometric-design-space_4159942.htm#query=portfolio%20background&position=0&from_view=keyword&track=ais_user&uuid=2ee60156-8afa-4e14-b2e5-23dc96184582'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
